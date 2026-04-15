@@ -36,7 +36,6 @@ He trabajado en proyectos relacionados con **visión por computadora, deep learn
 - Automatización de procesos
 - Sistemas basados en datos
 - Proyectos tecnológicos con impacto real
-- Hackathons y construcción rápida de prototipos
 
 ---
 
