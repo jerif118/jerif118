@@ -4,7 +4,6 @@
   Bachiller en Ciencias Estadísticas e Informáticas · Backend · IA aplicada · Computer Vision
 </p>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/jeobardo-jerif-cornejo-cuno-7b1a5823b/">
     <img src="https://img.shields.io/badge/LinkedIn-Jeobardo%20Jerif%20Cornejo%20Cuno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -26,6 +25,14 @@ Me interesa construir soluciones usando **backend, datos e inteligencia artifici
 
 Me gusta aprender construyendo, experimentar con nuevas ideas y convertir conceptos en prototipos funcionales.  
 He trabajado en proyectos relacionados con **visión por computadora, deep learning, análisis de datos, automatización y desarrollo de aplicaciones**.
+
+---
+
+## Publicaciones y trabajo académico
+
+- **Springer, 2025** — Coautor del capítulo  
+  [*Integrated Projection of the Development of Solar Farms in the Puno Altiplano of Peru*](https://link.springer.com/chapter/10.1007/978-3-031-61956-4_2)  
+  Publicado en *Research and Innovation in Renewable Energy and Environment*.
 
 ---
 
@@ -82,7 +89,7 @@ He trabajado en proyectos relacionados con **visión por computadora, deep learn
   <img src="https://github.com/jerif118/jerif118/blob/main/checkealo_ya_main_logo.png" alt="Checkealo.ya Logo" width="350">
 </p>
 
-Plataforma integral diseñada para emprendedores y PyMEs en Perú, enfocada en la gestión de ingresos, verificación de pagos y prevención de estafas. Como **co-fundador y Desarrollador Full Stack**, lideré la arquitectura del sistema y la implementación de microservicios.
+Plataforma integral diseñada para emprendedores y PyMEs en Perú, enfocada en la gestión de ingresos, verificación de pagos y prevención de estafas. Como **co-fundador y desarrollador**, participé en la arquitectura del sistema y en la implementación de componentes clave del ecosistema.
 
 **Ecosistema del proyecto:**
 - 🌐 **Web:** [checkealo-web](https://github.com/jerif118/minka_frontend) — Dashboard administrativo y landing page desarrollados con **React, TypeScript y Vite**.
