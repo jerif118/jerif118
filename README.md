@@ -52,7 +52,6 @@ He trabajado en proyectos relacionados con **visión por computadora, deep learn
 
 ### Backend y desarrollo
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/APIs_REST-005571?style=flat-square"/>
@@ -86,10 +85,10 @@ He trabajado en proyectos relacionados con **visión por computadora, deep learn
 Plataforma integral diseñada para emprendedores y PyMEs en Perú, enfocada en la gestión de ingresos, verificación de pagos y prevención de estafas. Como **co-fundador y Desarrollador Full Stack**, lideré la arquitectura del sistema y la implementación de microservicios.
 
 **Ecosistema del proyecto:**
-* 🌐 **Web:** [checkealo-web](https://github.com/jerif118/minka_frontend) - Dashboard administrativo y landing page con **React / Next.js**.
-* 📱 **Android:** [checkealo-android](https://github.com/jerif118/Minka_android), - App nativa para verificación de transacciones en tiempo real.
-* 📲 **Play Store:** [checkealo-android](https://play.google.com/store/apps/details?id=com.minka.llntq.app).
-* ⚙️ **Server:** [checkealo-server](https://github.com/jerif118/minkaweb_server) - API REST de alta velocidad desarrollada con **FastAPI**.
+- 🌐 **Web:** [checkealo-web](https://github.com/jerif118/minka_frontend) — Dashboard administrativo y landing page desarrollados con **React, TypeScript y Vite**.
+- 📱 **Android:** [checkealo-android](https://github.com/jerif118/Minka_android) — Aplicación nativa desarrollada en **Kotlin** con **Jetpack Compose** para la verificación de transacciones en tiempo real.
+- 📲 **Play Store:** [Checkealo.ya en Google Play](https://play.google.com/store/apps/details?id=com.minka.llntq.app).
+- ⚙️ **Server:** [checkealo-server](https://github.com/jerif118/minkaweb_server) — Backend desarrollado en **Python**, con componentes como **Tornado**, **Redis** y **PyJWT**.
 
 ---
 
