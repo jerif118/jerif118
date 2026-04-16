@@ -77,14 +77,25 @@ He trabajado en proyectos relacionados con **visión por computadora, deep learn
 
 ## Proyectos destacados
 
+### [checkealo.ya](https://checkealoya.com/) 🚀
+<p align="left">
+  <img src="https://raw.githubusercontent.com/jerif118/jerif118/main/logo_checkealo.png" alt="Checkealo.ya Logo" width="350">
+</p>
+
+Plataforma integral diseñada para emprendedores y PyMEs en Perú, enfocada en la gestión de ingresos, verificación de pagos y prevención de estafas. Como **co-fundador y Desarrollador Full Stack**, lideré la arquitectura del sistema y la implementación de microservicios.
+
+**Ecosistema del proyecto:**
+* 🌐 **Web:** [checkealo-web](https://github.com/jerif118/checkealo-web) - Dashboard administrativo y landing page construida con **React y Next.js**.
+* 📱 **Android:** [checkealo-android](https://github.com/jerif118/checkealo-android) - Aplicación móvil nativa para la verificación de transacciones en tiempo real.
+* ⚙️ **Server:** [checkealo-server](https://github.com/jerif118/checkealo-server) - Núcleo lógico y API REST de alta velocidad desarrollada con **FastAPI (Python)**.
+
+---
+
 ### [Pipeline_Derma](https://github.com/jerif118/Pipeline_Derma)
 Pipeline orientado al análisis y experimentación en clasificación de lesiones cutáneas, trabajando con imágenes reales y sintéticas para tareas de inteligencia artificial aplicada.
 
 ### [smartbox-trading](https://github.com/jerif118/smartbox-trading)
 Proyecto de agente de trading parcialmente automatizado, enfocado en análisis estructurado y toma de decisiones con apoyo de IA.
-
-### [checkealo.ya](https://checkealoya.com/)
-Proyecto orientado a facilitar procesos de verificación y control mediante una aplicación pensada para negocios y uso práctico. Me permitió trabajar en lógica del sistema, desarrollo de producto y construcción de soluciones enfocadas en usuarios reales.
 
 ### [DERMA](https://github.com/jerif118/DERMA)
 Proyecto relacionado con visión por computadora y análisis de imágenes dermatológicas usando deep learning.
