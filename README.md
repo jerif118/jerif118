@@ -4,6 +4,7 @@
   Bachiller en Ciencias Estadísticas e Informáticas · Backend · IA aplicada · Computer Vision
 </p>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jeobardo-jerif-cornejo-cuno-7b1a5823b/">
     <img src="https://img.shields.io/badge/LinkedIn-Jeobardo%20Jerif%20Cornejo%20Cuno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -11,13 +12,9 @@
   <a href="https://github.com/jerif118">
     <img src="https://img.shields.io/badge/GitHub-jerif118-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
- <a href="https://checkealoya.com/">
-  <img 
-    src="https://raw.githubusercontent.com/jerif118/jerif118/main/checkealo_ya_main_logo.png" 
-    height="25" 
-    alt="checkealo.ya"
-  />
-</a>
+  <a href="https://checkealoya.com/">
+    <img src="https://raw.githubusercontent.com/jerif118/jerif118/main/checkealo_ya_main_logo_white_bg.png" height="28" alt="checkealo.ya"/>
+  </a>
 </p>
 
 ---
