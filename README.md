@@ -79,7 +79,7 @@ He trabajado en proyectos relacionados con **visión por computadora, deep learn
 
 ### [checkealo.ya](https://checkealoya.com/) 🚀
 <p align="left">
-  <img src="logo_checkealo.png" alt="Checkealo.ya Logo" width="350">
+  <img src="https://github.com/jerif118/jerif118/blob/main/checkealo_ya_main_logo.png" alt="Checkealo.ya Logo" width="350">
 </p>
 
 Plataforma integral diseñada para emprendedores y PyMEs en Perú, enfocada en la gestión de ingresos, verificación de pagos y prevención de estafas. Como **co-fundador y Desarrollador Full Stack**, lideré la arquitectura del sistema y la implementación de microservicios.
