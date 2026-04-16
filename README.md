@@ -12,7 +12,8 @@
     <img src="https://img.shields.io/badge/GitHub-jerif118-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://checkealoya.com/">
-    <img src="https://github.com/jerif118/jerif118/blob/main/checkealo_ya_main_logo.png" height="25px" style="background-color: white;" alt="checkealo.ya"/>
+    <span style="background-color: white; display: inline-block; padding: 2px;">
+    <img src="https://github.com/jerif118/jerif118/blob/main/checkealo_ya_main_logo.png" height="25px" alt="checkealo.ya"/>
   </a>
 </p>
 
