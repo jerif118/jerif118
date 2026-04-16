@@ -79,15 +79,15 @@ He trabajado en proyectos relacionados con **visión por computadora, deep learn
 
 ### [checkealo.ya](https://checkealoya.com/) 🚀
 <p align="left">
-  <img src="https://raw.githubusercontent.com/jerif118/jerif118/main/logo_checkealo.png" alt="Checkealo.ya Logo" width="350">
+  <img src="logo_checkealo.png" alt="Checkealo.ya Logo" width="350">
 </p>
 
 Plataforma integral diseñada para emprendedores y PyMEs en Perú, enfocada en la gestión de ingresos, verificación de pagos y prevención de estafas. Como **co-fundador y Desarrollador Full Stack**, lideré la arquitectura del sistema y la implementación de microservicios.
 
 **Ecosistema del proyecto:**
-* 🌐 **Web:** [checkealo-web](https://github.com/jerif118/checkealo-web) - Dashboard administrativo y landing page construida con **React y Next.js**.
-* 📱 **Android:** [checkealo-android](https://github.com/jerif118/checkealo-android) - Aplicación móvil nativa para la verificación de transacciones en tiempo real.
-* ⚙️ **Server:** [checkealo-server](https://github.com/jerif118/checkealo-server) - Núcleo lógico y API REST de alta velocidad desarrollada con **FastAPI (Python)**.
+* 🌐 **Web:** [checkealo-web](https://github.com/jerif118/checkealo-web) - Dashboard administrativo y landing page con **React / Next.js**.
+* 📱 **Android:** [checkealo-android](https://github.com/jerif118/checkealo-android) - App nativa para verificación de transacciones en tiempo real.
+* ⚙️ **Server:** [checkealo-server](https://github.com/jerif118/checkealo-server) - API REST de alta velocidad desarrollada con **FastAPI**.
 
 ---
 
@@ -114,15 +114,6 @@ Dashboard orientado a visualización y análisis de datos.
 - Construir soluciones más completas entre backend, datos e IA
 - Participar en proyectos y hackathons donde pueda aportar con desarrollo y ejecución
 - Desarrollar herramientas tecnológicas que tengan utilidad práctica
-
----
-
-## Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jerif118&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerif118&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
